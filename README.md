@@ -12,7 +12,7 @@
 
 EMMA-STRAT is a multi-omics machine learning framework for stratifying endometrial carcinoma (EC) patients by:
 
-- **Genomic subtype (IC):** POLE, MSI, CNL, CNH
+- **Genomic subtype:** POLE, MSI, CNL, CNH
 - **MSI status:** MSS vs MSI-H
 
 The framework integrates three omics layers — **DNA methylation**, **RNA-seq**, and **miRNA** — from TCGA-UCEC data, covering the full pipeline from data retrieval and preprocessing through feature selection, model training, post-hoc analysis, and survival visualization.
