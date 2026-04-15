@@ -2,7 +2,6 @@
 
 ## A Multi-Omics Based Machine Learning Framework for Stratification of Endometrial Carcinoma Molecular Subtypes and MSI Status
 
-**Authors:** Naisarg Patel, Andres Salumets, Vijayachitra Modhukur
 
 **License:** GNU General Public License v3.0 — see [LICENSE.txt](LICENSE.txt)
 
