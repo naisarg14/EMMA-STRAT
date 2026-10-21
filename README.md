@@ -228,6 +228,14 @@ python scripts/venn_diagram_maker.py
 
 ---
 
+## Citation
+
+If you use EMMA-STRAT in your work, please cite:
+
+Patel, N., Salumets, A. & Modhukur, V. EMMA-STRAT: a multi-omics based machine learning framework for stratification of endometrial carcinoma molecular subtypes and MSI status. *BioData Mining* **19**, 63 (2026). https://doi.org/10.1186/s13040-026-00587-5
+
+---
+
 ## License
 
 This project is licensed under the **GNU General Public License v3.0**.
